@@ -1,0 +1,143 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+logo
+  rotate: false
+  xy: 1, 721
+  size: 800, 300
+  orig: 800, 300
+  offset: 0, 0
+  index: -1
+arcade
+  rotate: false
+  xy: 1, 577
+  size: 454, 142
+  orig: 454, 142
+  offset: 0, 0
+  index: -1
+arcade2
+  rotate: false
+  xy: 1, 433
+  size: 454, 142
+  orig: 454, 142
+  offset: 0, 0
+  index: -1
+classic
+  rotate: false
+  xy: 1, 289
+  size: 454, 142
+  orig: 454, 142
+  offset: 0, 0
+  index: -1
+classic2
+  rotate: false
+  xy: 1, 145
+  size: 454, 142
+  orig: 454, 142
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 1, 1
+  size: 454, 142
+  orig: 454, 142
+  offset: 0, 0
+  index: -1
+botonplay
+  rotate: false
+  xy: 457, 577
+  size: 368, 142
+  orig: 368, 142
+  offset: 0, 0
+  index: -1
+botonplay2
+  rotate: false
+  xy: 457, 433
+  size: 368, 142
+  orig: 368, 142
+  offset: 0, 0
+  index: -1
+botonscore
+  rotate: false
+  xy: 457, 289
+  size: 368, 142
+  orig: 368, 142
+  offset: 0, 0
+  index: -1
+botonscore2
+  rotate: false
+  xy: 457, 145
+  size: 368, 142
+  orig: 368, 142
+  offset: 0, 0
+  index: -1
+botonsoptions
+  rotate: false
+  xy: 457, 1
+  size: 368, 142
+  orig: 368, 142
+  offset: 0, 0
+  index: -1
+musicaoff
+  rotate: false
+  xy: 803, 821
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ret
+  rotate: false
+  xy: 827, 706
+  size: 170, 113
+  orig: 170, 113
+  offset: 0, 0
+  index: -1
+ret2
+  rotate: false
+  xy: 827, 591
+  size: 170, 113
+  orig: 170, 113
+  offset: 0, 0
+  index: -1
+
+pack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plus2
+  rotate: false
+  xy: 1, 289
+  size: 454, 142
+  orig: 454, 142
+  offset: 0, 0
+  index: -1
+botonsoptions2
+  rotate: false
+  xy: 1, 145
+  size: 368, 142
+  orig: 368, 142
+  offset: 0, 0
+  index: -1
+start1
+  rotate: false
+  xy: 457, 289
+  size: 368, 142
+  orig: 368, 142
+  offset: 0, 0
+  index: -1
+start2
+  rotate: false
+  xy: 1, 1
+  size: 368, 142
+  orig: 368, 142
+  offset: 0, 0
+  index: -1
+musicaon
+  rotate: false
+  xy: 371, 87
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
